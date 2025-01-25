@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+<a href=https://en.wikipedia.org/wiki/Edsger_W._Dijkstra> Wikipedia: Edsger W. Dijkstra </a>
+
+I find Dijkstra's article interesting because I've come across his work already in Basic Algorithms. Notably, I encountered his algorithm for finding the least costly way to traverse a graph. A fascinating tidbit is that when he had to state his profession, "programmer" was not a valid answer according to the authorities of the Netherlands. I also find it interesting that he frequently did not choose to use references to others' work.
